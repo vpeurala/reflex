@@ -1,0 +1,4 @@
+resolver: lts-4.2
+extra-deps:
+- ref-tf-0.4
+
